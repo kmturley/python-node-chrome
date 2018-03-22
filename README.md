@@ -6,6 +6,10 @@ Docker image for sites which need to run:
 * NodeJS 8.x
 * Chrome
 
+## Installation
+
+    docker build -t "kmturley:python-node-chrome" .
+
 ## Usage
 
 Within your own Dockerfile:
